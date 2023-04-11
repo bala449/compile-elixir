@@ -2,10 +2,10 @@ import Config
 
 # Configure your database
 config :mix_automation, MixAutomation.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "bala",
+  password: "India123",
   hostname: "localhost",
-  database: "mix_automation_dev",
+  database: "mix_automation_dev_test",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
